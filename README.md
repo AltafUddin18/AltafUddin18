@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Altaf Uddin</h1>
+<h3 align="center">Machine Learning || Deep Learning</h3>
 <h3 align="center">Graduated from Bangladesh School Muscat, Oman. Completing my BSc in CSE in East Delta University, Chittagong, Bangladesh.</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Programming, and a bit of Web Development**
