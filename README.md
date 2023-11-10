@@ -19,6 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AltafUddin18&icon=8&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AltafUddin18&label=Profile%20Views&color=3&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
